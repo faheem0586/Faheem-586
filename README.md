@@ -20,7 +20,7 @@
 
   <ul style="list-style-type: square; margin-left: 20px;">
     <li><strong>PHP</strong> – Advanced (7+ years experience)</li>
-    <li><strong>Drupal</strong> – Advanced (5+ years experience)</li>
+    <li><strong>Drupal</strong> – Advanced (4+ years experience)</li>
     <li><strong>JavaScript, Twig, Sass, jQuery</strong> (Drupal theming) – Advanced (5+ years experience)</li>
     <li><strong>Git, Gulp, DDev, Docksal, npm, Composer</strong> – Advanced (4+ years experience)</li>
     <li><strong>Vue.js</strong> (as a Headless/Decoupled Drupal frontend) – Intermediate (2+ years experience)</li>
